@@ -1,4 +1,8 @@
-### Hi there 👋
+![Header](./github-header-image.png)
+
+Most of the stuff you will find here is personal projects, or open source contributions.
+
+I'm currently focusing on projects with [Sola Fide](https://github.com/solafide-dev)
 
 <!--
 **applehat/applehat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
