@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header.png)
 
 Most of the stuff you will find here is personal projects, or open source contributions.
 
